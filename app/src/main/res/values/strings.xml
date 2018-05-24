@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FiftyFifty</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="paret_array">
+        <item>ALL</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>MKD</item>
+        <item>RSD</item>
+    </string-array>
+
+</resources>
